@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gotletio.github.io/gotletio.gotletio
+Sitemap: https://gotletio.github.io/app/gotletio.gotletio
+Sitemap: https://gotletio.github.io/assets/gotletio.gotletio
+Sitemap: https://gotletio.github.io/css/gotletio.gotletio
+Sitemap: https://gotletio.github.io/includes/gotletio.gotletio
+Sitemap: https://gotletio.github.io/item/gotletio.gotletio
+Sitemap: https://gotletio.github.io/src/gotletio.gotletio
